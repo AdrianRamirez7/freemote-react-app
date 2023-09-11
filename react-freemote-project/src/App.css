@@ -1,0 +1,28 @@
+
+body {
+  margin: 0;
+}
+
+.App {
+  text-align: center;
+}
+
+
+.hero-box {
+  text-align: center;
+  height: 500px;
+  width: 100%;
+  border: 3px solid black;
+}
+
+nav {
+  display: flex;
+  padding: 20px auto;
+  margin: auto;
+  background-color: red;
+}
+
+.title {
+  display: flex;
+  margin: auto;
+}
